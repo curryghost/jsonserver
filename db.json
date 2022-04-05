@@ -1,4 +1,5 @@
-[
+{
+"people": [
     {
       "name": "John",
       "age": 23,
@@ -10,4 +11,4 @@
       "email": "efg@example.com"
    }
 ]
-
+}
