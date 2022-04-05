@@ -1,14 +1,14 @@
 {
-"people": [
-    {
-      "name": "John",
-      "age": 23,
-      "email": "abc@example.com"
-    },
-    {
-      "name": "Doe",
-      "age": 24,
-      "email": "efg@example.com"
-   }
-]
+    "people": [
+        {
+            "name": "John",
+            "age": 23,
+            "email": "abc@example.com"
+        },
+        {
+            "name": "Doe",
+            "age": 24,
+            "email": "efg@example.com"
+        }
+    ]
 }
